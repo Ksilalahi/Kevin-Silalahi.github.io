@@ -429,7 +429,7 @@ body {
     background-color: #222;
   }
   
-  .contact .row .map {
+  .contact .row .maps {
     flex: 1 1 45rem;
     width: 100%;
     object-fit: cover;
